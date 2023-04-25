@@ -1,0 +1,69 @@
+ {"mockDataBooks"
+    :[
+    {
+        "id": 1,
+       " name": "Atomic Habits",
+        "writer": "James Clear",
+        "availability": false,
+        "image": "./images/Atomic+Habits.png"
+        
+    },
+    {
+        "id": 2,
+        "name": "1984",
+        "writer": "George Orwell",
+        "availability": false,
+        "image": "./images/george.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Harry Potter and Sorcerer's Stone",
+        "writer": " J. K. Rowling",
+        "availability": true,
+        "image": "./images/harry.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Kafka on the Shore",
+        "writer": "Haruki Murakami",
+        "availability": true,
+        "image": "./images/kafka.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Suc ve Ceza",
+        "writer": "Dostoyevski",
+        "availability": true,
+        "image": "./images/dosto.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Fareler ve İnsanlar",
+        "writer": "John Steinbeck",
+        "availability": true,
+        "image": "./images/fare.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Simyacı",
+        "writer": "Paulo Coelho ",
+        "availability": true,
+        "image": "./images/simyacı.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Martin Eden",
+        "writer": "Jack London",
+        "availability": true,
+        "image": "./images/martin.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Satranc",
+        "writer": "Stefan Zweig",
+        "availability": true,
+        "image": "./images/satranc.jpg"
+    }
+   ]
+ }
+ 
