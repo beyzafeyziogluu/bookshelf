@@ -2,7 +2,7 @@
   "mockDataBooks": [
     {
       "id": 1,
-      " name": "Atomic Habits",
+      "name": "Atomic Habits",
       "writer": "James Clear",
       "availability": false,
       "genre": "Education",
